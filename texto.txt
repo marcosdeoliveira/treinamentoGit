@@ -1,1 +1,2 @@
 texto2
+linha adicionada pelo navegador
